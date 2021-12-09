@@ -22,38 +22,20 @@ Game interface
 
 
 
-- Minimax without alpha-beta pruning
+
+![222](https://user-images.githubusercontent.com/59891874/145469296-b1e123da-b165-4985-8afa-99f11482544b.PNG)
 
 
 
-Game tree with depth 3 at first move:-
+-end of Game
 
-
-
-
-
-
-
-
-
-
--Final of Game
-
-
-
-- Minimax with alpha-beta pruning:-
+![333333](https://user-images.githubusercontent.com/59891874/145469426-220d301b-2514-4cec-a07a-540e1a88a0e5.PNG)
 
 
 
 
 
 
-
-
-
-
-
--Final of Game:-
 
 heuristic
 Calculate score =  total points of computer – total points of players
@@ -76,45 +58,6 @@ Data structures:
 Time:
 All Calculations are done on the First Step:
 
-Depth
-MiniMax without pruning
-alpha-beta pruning
 
-
-Time (ms)
-Nodes
-Time (ms)
-Nodes
-3
-13
-400
-6
-220
-5
-49
-9906
-27
-3137
-7
-593
-154651
-176
-25206
-9
-5035
-1831344
-852
-196718
-11
-17858
-5727785
-5653
-1586621
-13
-takes a lot of time
-—-------------
-38724
-8831904
-
-
+![44444](https://user-images.githubusercontent.com/59891874/145469568-fb0f5ee7-776a-40f5-b4ed-58a3c611a5d3.PNG)
 
