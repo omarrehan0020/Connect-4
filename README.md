@@ -18,6 +18,7 @@ Connect-4 game
 
 Sample Run:-
 Game interface
+![11](https://user-images.githubusercontent.com/59891874/145469107-d41a4c42-50a0-4a47-90d8-d5c1d4d30fc3.PNG)
 
 
 
