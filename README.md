@@ -2,4 +2,5 @@
 
 # Using Minimax Algorithm to Make Connect 4 AI Agent
 
- [Uploading connect.pdf…]()
+ 
+[connect.pdf](https://github.com/omarrehan0020/Connect-4/files/7688125/connect.pdf)
